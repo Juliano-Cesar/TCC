@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 100;
+}
+
+.button {
+  color: red;
+  background-color: white;
+  width: 100px; /* Increase the width of the button */
+  padding: 10px; /* Increase the padding of the button */
+  border-radius: 5px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.buttonFooter {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-right: 20px;
+  white-space: nowrap;
+  color: #fff;
+}
+
+.iconFooter {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  size: 30;
+  color: black;
+}
